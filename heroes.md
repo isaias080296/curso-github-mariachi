@@ -8,3 +8,5 @@
 * Shazam
 * Robin
 * Flash
+* Spideman
+* Iron Man
